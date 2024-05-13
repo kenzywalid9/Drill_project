@@ -1,0 +1,1 @@
+this project help me to learn more about NE_555 as we use it in our project to get PWM as controlling the speed of dc motor we use it as a driller circuit to drill ant board , we can make different size of holes
